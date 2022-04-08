@@ -1,0 +1,5 @@
+{
+  "check_for_rvm": false,
+  "show_auto_correct_warning": false,
+  "rbenv_path": "/Users/aristotelescosta/.asdf/shims/rubocop",
+}

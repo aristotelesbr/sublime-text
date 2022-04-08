@@ -1,0 +1,46 @@
+{
+  "downloader_precedence": {
+    "osx": ["curl", "urllib"]
+  },
+
+  "bootstrapped": true,
+  "installed_packages": [
+    "A File Icon",
+    "AdvancedNewFile",
+    "All Autocomplete",
+    "AutoFileName",
+    "Autoprefixer",
+    "Better Rails",
+    "Better RSpec",
+    "Better Ruby",
+    "BracketHighlighter",
+    "Close Others",
+    "Codefmt",
+    "Color Scheme - Soda",
+    "Dockerfile Syntax Highlighting",
+    "ESLint-Formatter",
+    "Git",
+    "GitGutter",
+    "Gutter Color",
+    "JsPrettier",
+    "LSP",
+    "LSP-html",
+    "LSP-typescript",
+    "MarkdownEditing",
+    "MarkdownPreview",
+    "NSIS Plug-in Completions",
+    "Package Control",
+    "RuboCop",
+    "SideBarEnhancements",
+    "Slick",
+    "SublimeERB",
+    "SublimeLinter",
+    "SublimeLinter-eslint",
+    "SublimeLinter-rubocop",
+    "SublimeLinter-ruby",
+    "TodoReview",
+    "TOML"
+  ],
+  "repositories": ["https://sublime.fnando.com/repositories.json"],
+  "in_process_packages": []
+}
