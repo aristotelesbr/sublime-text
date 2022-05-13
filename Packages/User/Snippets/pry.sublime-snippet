@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+debugger.break
+${1}
+]]></content>
+  <tabTrigger>pry</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

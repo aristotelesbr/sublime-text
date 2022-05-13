@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+it 'debbug' do
+  binding.pry
+end
+]]></content>
+  <tabTrigger>itpry</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,6 +1,6 @@
 {
   "downloader_precedence": {
-    "osx": ["curl", "urllib"]
+    "osx": ["curl", "urllib"],
   },
 
   "bootstrapped": true,
@@ -16,9 +16,11 @@
     "BracketHighlighter",
     "Close Others",
     "Codefmt",
+    "Color Highlighter",
     "Color Scheme - Soda",
     "Dockerfile Syntax Highlighting",
     "ESLint-Formatter",
+    "Gem Description",
     "Git",
     "GitGutter",
     "Gutter Color",
@@ -30,7 +32,9 @@
     "MarkdownPreview",
     "NSIS Plug-in Completions",
     "Package Control",
+    "Procfile Syntax",
     "RuboCop",
+    "Sass",
     "SideBarEnhancements",
     "Slick",
     "SublimeERB",
@@ -38,9 +42,12 @@
     "SublimeLinter-eslint",
     "SublimeLinter-rubocop",
     "SublimeLinter-ruby",
+    "Tailwind CSS",
+    "TailwindCSSAutocomplete",
     "TodoReview",
-    "TOML"
+    "TOML",
   ],
   "repositories": ["https://sublime.fnando.com/repositories.json"],
-  "in_process_packages": []
+  "in_process_packages": [
+  ],
 }

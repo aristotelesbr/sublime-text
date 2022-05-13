@@ -41,7 +41,6 @@
     "bower_components",
     "_build",
     ".shards",
-    "public/assets",
     "deps",
     ".nyc_output-client",
     ".nyc_output-server",
@@ -89,7 +88,7 @@
     "RestructuredText",
     "Scala",
     "TCL",
-    "Vintage"
+    "Vintage",
   ],
   "indent_guide_options": ["draw_normal", "draw_active"],
   "line_padding_bottom": 2,
@@ -115,5 +114,5 @@
 
   "ruby_executable": "ruby",
   "rubyfmt_executable": "rubyfmt",
-  "format_on_save": true
+  "format_on_save": true,
 }
